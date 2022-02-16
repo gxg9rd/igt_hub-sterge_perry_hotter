@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 LILY'S PATRONUS
                    .     _,
                    |`\__/ /
@@ -17,7 +16,9 @@ LILY'S PATRONUS
      `"   `"      `""
      
 sa-mi bag
-=======
+12
+12
+12
+12
 
->>>>>>> empty
 
